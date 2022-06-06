@@ -22,6 +22,8 @@ namespace aula1OrientacaoAObjetos
             cliente3.nome = "Lais";
             cliente3.codigo = 3;
 
+            cliente3.validaCPF("398.693.569-89");
+
             System.Console.WriteLine(" Dados do primeiro Cliente ");
             System.Console.WriteLine(" Nome: " + cliente1.nome);
             System.Console.WriteLine(" Código: " + cliente1.codigo);

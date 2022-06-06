@@ -10,5 +10,18 @@ namespace aula1OrientacaoAObjetos
     {
         public string? nome;
         public int codigo;
+        public string? cpf;
+
+        public bool validaCPF(string cpf)
+        {
+            bool cpfValidado = false;
+
+            if (string)
+            {
+                cpfValidado = true;
+            }
+
+            return cpfValidado;
+        }
     }
 }
