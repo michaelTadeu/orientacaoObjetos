@@ -24,19 +24,21 @@ namespace aula1OrientacaoAObjetos
 
         }
 
-        public int calculaIdadePessoa()
+        int calculaIdadePessoa()
         {
             return DateTime.Today.Year - dataNascimento.Year;
         }
 
-        public float calculaIMCPessoa()
+        internal float calculaIMCPessoa()
         {
             return peso / (altura * altura);
         }
 
-        public bool teste()
+        private bool teste()
         {
             return true;
         }
+
+
     }
 }

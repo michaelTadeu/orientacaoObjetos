@@ -14,6 +14,34 @@ namespace aula1OrientacaoAObjetos
     {
         public int numero;
         public double saldo;
-        public double limite;
+        public double limite = 50;
+        public double contaNegativa = -200;
+        public Agencia agencia;
+
+
+        void Deposito(double valorDeposito)
+        {
+            saldo += valorDeposito;
+        }
+
+        public bool VerificaSaldo(double valorSaque)
+        {
+            bool podeSacar = true;
+            double saldoAtual = Saca(valorSaque);
+            if (saldoAtual < contaNegativa)
+            {    
+                podeSacar = false;
+            }
+
+            return podeSacar;
+        }
+
+        public double Saca(double valorSaque)
+        {
+            double valorSacado = (saldo - valorSaque) * 10;
+            return valorSacado;
+        }
+
+
     }
 }

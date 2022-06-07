@@ -12,16 +12,26 @@ namespace aula1OrientacaoAObjetos
         public int codigo;
         public string? cpf;
 
-        public bool validaCPF(string cpf)
-        {
-            bool cpfValidado = false;
+        //public Cliente retornaClienteById(long idCliente)
+        //{
+        //    return nome, codigo, cpf;
+        //}
 
-            if (string)
-            {
-                cpfValidado = true;
-            }
+        //public bool validaCPF(string cpf)
+        //{
+        //    bool cpfValidado = false;
 
-            return cpfValidado;
-        }
+        //    if (string)
+        //    {
+        //        cpfValidado = true;
+        //    }
+
+        //    return cpfValidado;
+        //}
+
+        //public double Potencia(int x, int y)
+        //{
+        //    return Math.Pow(x, y);
+        //}
     }
 }

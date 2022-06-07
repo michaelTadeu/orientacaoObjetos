@@ -12,5 +12,7 @@ namespace aula1OrientacaoAObjetos
         public string? nome;
         public string? dataDeValidade;
         public int codigoDeSeguranca;
+        public Cliente cliente;
+
     }
 }
