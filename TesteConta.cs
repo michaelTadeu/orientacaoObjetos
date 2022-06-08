@@ -10,13 +10,13 @@ namespace aula1OrientacaoAObjetos
     {
         public static void Main(string[] args)
         {
-            Conta c1 = new Conta();
+            //Conta c1 = new Conta();
 
-            double pSaldo = 63;
+            //double pSaldo = 63;
 
-            c1.Deposito(63, 59);
+            //c1.Deposito(63);
 
-            Console.WriteLine(" Limite:  " + c1.limite);
+            //Console.WriteLine(" Limite:  " + c1.limite);
 
             //Conta c1 = new Conta();
             //c1.numero = 1234;

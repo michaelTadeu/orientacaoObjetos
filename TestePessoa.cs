@@ -18,19 +18,19 @@ namespace aula1OrientacaoAObjetos
 
             p1.imprimirResultado();
 
-            int idade = p1.calculaIdadePessoa();
-            float imc = p1.calculaIMCPessoa();
+            //int idade = p1.calculaIdadePessoa();
+            //float imc = p1.calculaIMCPessoa();
 
-            if (p1.teste())
-            {
+            //if (p1.teste())
+            //{
                 
-            } else
-            {
+            //} else
+            //{
 
-            }
+            //}
 
-            Console.WriteLine("Idade: " + idade);
-            Console.WriteLine("IMC: " + imc);
+            //Console.WriteLine("Idade: " + idade);
+            //Console.WriteLine("IMC: " + imc);
         }
     }
 }

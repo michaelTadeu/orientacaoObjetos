@@ -42,6 +42,16 @@ namespace aula1OrientacaoAObjetos
             return valorSacado;
         }
 
+        public void ImprimirExtrato(int dias = 15)
+        {
+            // extrato dos 30 dias
+            // Vai BD e busca os dados
+        }
+
+        public void ImprimirExtrato()
+        {
+            this.ImprimirExtrato(15);
+        }
 
     }
 }
