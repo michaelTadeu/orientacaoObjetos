@@ -1,0 +1,15 @@
+C:\Projetos\LetsCode\Safra - C#\codigo\aula1OrientacaoAObjetos\bin\Debug\net6.0\aula1OrientacaoAObjetos.exe
+C:\Projetos\LetsCode\Safra - C#\codigo\aula1OrientacaoAObjetos\bin\Debug\net6.0\aula1OrientacaoAObjetos.deps.json
+C:\Projetos\LetsCode\Safra - C#\codigo\aula1OrientacaoAObjetos\bin\Debug\net6.0\aula1OrientacaoAObjetos.runtimeconfig.json
+C:\Projetos\LetsCode\Safra - C#\codigo\aula1OrientacaoAObjetos\bin\Debug\net6.0\aula1OrientacaoAObjetos.dll
+C:\Projetos\LetsCode\Safra - C#\codigo\aula1OrientacaoAObjetos\bin\Debug\net6.0\aula1OrientacaoAObjetos.pdb
+C:\Projetos\LetsCode\Safra - C#\codigo\aula1OrientacaoAObjetos\obj\Debug\net6.0\aula1OrientacaoAObjetos.csproj.AssemblyReference.cache
+C:\Projetos\LetsCode\Safra - C#\codigo\aula1OrientacaoAObjetos\obj\Debug\net6.0\aula1OrientacaoAObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LetsCode\Safra - C#\codigo\aula1OrientacaoAObjetos\obj\Debug\net6.0\aula1OrientacaoAObjetos.AssemblyInfoInputs.cache
+C:\Projetos\LetsCode\Safra - C#\codigo\aula1OrientacaoAObjetos\obj\Debug\net6.0\aula1OrientacaoAObjetos.AssemblyInfo.cs
+C:\Projetos\LetsCode\Safra - C#\codigo\aula1OrientacaoAObjetos\obj\Debug\net6.0\aula1OrientacaoAObjetos.csproj.CoreCompileInputs.cache
+C:\Projetos\LetsCode\Safra - C#\codigo\aula1OrientacaoAObjetos\obj\Debug\net6.0\aula1OrientacaoAObjetos.dll
+C:\Projetos\LetsCode\Safra - C#\codigo\aula1OrientacaoAObjetos\obj\Debug\net6.0\refint\aula1OrientacaoAObjetos.dll
+C:\Projetos\LetsCode\Safra - C#\codigo\aula1OrientacaoAObjetos\obj\Debug\net6.0\aula1OrientacaoAObjetos.pdb
+C:\Projetos\LetsCode\Safra - C#\codigo\aula1OrientacaoAObjetos\obj\Debug\net6.0\aula1OrientacaoAObjetos.genruntimeconfig.cache
+C:\Projetos\LetsCode\Safra - C#\codigo\aula1OrientacaoAObjetos\obj\Debug\net6.0\ref\aula1OrientacaoAObjetos.dll
