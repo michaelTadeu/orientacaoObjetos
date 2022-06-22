@@ -1,0 +1,15 @@
+C:\Projetos\LetsCode\Safra - C#\codigo\Polimorfismo\bin\Debug\net6.0\Polimorfismo.exe
+C:\Projetos\LetsCode\Safra - C#\codigo\Polimorfismo\bin\Debug\net6.0\Polimorfismo.deps.json
+C:\Projetos\LetsCode\Safra - C#\codigo\Polimorfismo\bin\Debug\net6.0\Polimorfismo.runtimeconfig.json
+C:\Projetos\LetsCode\Safra - C#\codigo\Polimorfismo\bin\Debug\net6.0\Polimorfismo.dll
+C:\Projetos\LetsCode\Safra - C#\codigo\Polimorfismo\bin\Debug\net6.0\Polimorfismo.pdb
+C:\Projetos\LetsCode\Safra - C#\codigo\Polimorfismo\obj\Debug\net6.0\Polimorfismo.csproj.AssemblyReference.cache
+C:\Projetos\LetsCode\Safra - C#\codigo\Polimorfismo\obj\Debug\net6.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LetsCode\Safra - C#\codigo\Polimorfismo\obj\Debug\net6.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Projetos\LetsCode\Safra - C#\codigo\Polimorfismo\obj\Debug\net6.0\Polimorfismo.AssemblyInfo.cs
+C:\Projetos\LetsCode\Safra - C#\codigo\Polimorfismo\obj\Debug\net6.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Projetos\LetsCode\Safra - C#\codigo\Polimorfismo\obj\Debug\net6.0\Polimorfismo.dll
+C:\Projetos\LetsCode\Safra - C#\codigo\Polimorfismo\obj\Debug\net6.0\refint\Polimorfismo.dll
+C:\Projetos\LetsCode\Safra - C#\codigo\Polimorfismo\obj\Debug\net6.0\Polimorfismo.pdb
+C:\Projetos\LetsCode\Safra - C#\codigo\Polimorfismo\obj\Debug\net6.0\Polimorfismo.genruntimeconfig.cache
+C:\Projetos\LetsCode\Safra - C#\codigo\Polimorfismo\obj\Debug\net6.0\ref\Polimorfismo.dll

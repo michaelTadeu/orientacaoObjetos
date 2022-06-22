@@ -1,0 +1,15 @@
+C:\Projetos\LetsCode\Safra - C#\codigo\Desafio3\bin\Debug\net6.0\Desafio3.exe
+C:\Projetos\LetsCode\Safra - C#\codigo\Desafio3\bin\Debug\net6.0\Desafio3.deps.json
+C:\Projetos\LetsCode\Safra - C#\codigo\Desafio3\bin\Debug\net6.0\Desafio3.runtimeconfig.json
+C:\Projetos\LetsCode\Safra - C#\codigo\Desafio3\bin\Debug\net6.0\Desafio3.dll
+C:\Projetos\LetsCode\Safra - C#\codigo\Desafio3\bin\Debug\net6.0\Desafio3.pdb
+C:\Projetos\LetsCode\Safra - C#\codigo\Desafio3\obj\Debug\net6.0\Desafio3.csproj.AssemblyReference.cache
+C:\Projetos\LetsCode\Safra - C#\codigo\Desafio3\obj\Debug\net6.0\Desafio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LetsCode\Safra - C#\codigo\Desafio3\obj\Debug\net6.0\Desafio3.AssemblyInfoInputs.cache
+C:\Projetos\LetsCode\Safra - C#\codigo\Desafio3\obj\Debug\net6.0\Desafio3.AssemblyInfo.cs
+C:\Projetos\LetsCode\Safra - C#\codigo\Desafio3\obj\Debug\net6.0\Desafio3.csproj.CoreCompileInputs.cache
+C:\Projetos\LetsCode\Safra - C#\codigo\Desafio3\obj\Debug\net6.0\Desafio3.dll
+C:\Projetos\LetsCode\Safra - C#\codigo\Desafio3\obj\Debug\net6.0\refint\Desafio3.dll
+C:\Projetos\LetsCode\Safra - C#\codigo\Desafio3\obj\Debug\net6.0\Desafio3.pdb
+C:\Projetos\LetsCode\Safra - C#\codigo\Desafio3\obj\Debug\net6.0\Desafio3.genruntimeconfig.cache
+C:\Projetos\LetsCode\Safra - C#\codigo\Desafio3\obj\Debug\net6.0\ref\Desafio3.dll
